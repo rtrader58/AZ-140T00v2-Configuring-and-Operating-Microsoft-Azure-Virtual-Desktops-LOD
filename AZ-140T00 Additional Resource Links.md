@@ -23,3 +23,21 @@ Choose the best Azure serverless technology for your business scenario - https:/
 Choose the best monitoring service for visibility, insight, and outage mitigation - https://learn.microsoft.com/en-us/training/modules/monitoring-fundamentals/ <br>
 OFFICIAL COLLECTION - Course AZ-140T00: Configuring and Operating Microsoft Azure Virtual Desktop - https://learn.microsoft.com/en-us/users/msftofficialcurriculum-4292/collections/7wrocj3k73g4dq <br>
 
+## Module 01 Azure Virtual Desktop Architecture
+
+https://learn.microsoft.com/en-us/mem/configmgr/ <br>
+https://learn.microsoft.com/en-us/windows/deployment/update/waas-manage-updates-wufb <br>
+https://learn.microsoft.com/en-us/azure/automation/update-management/overview <br>
+https://learn.microsoft.com/en-us/azure/azure-monitor/agents/log-analytics-agent <br>
+https://learn.microsoft.com/en-us/azure/virtual-machines/capture-image-resource <br>
+https://learn.microsoft.com/en-us/azure/architecture/example-scenario/azure-virtual-desktop/azure-virtual-desktop <br>
+https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/azure-subscription-service-limits <br>
+https://learn.microsoft.com/en-us/azure/virtual-machines/windows/hybrid-use-benefit-licensing <br>
+https://azure.microsoft.com/pricing/reserved-vm-instances/ <br>
+
+## Module 02 Design the Azure Virtual Desktop architecture
+
+https://learn.microsoft.com/en-us/azure/networking/azure-network-latency?tabs=Americas%2CWestUS#round-trip-latency-figures
+
+
+
