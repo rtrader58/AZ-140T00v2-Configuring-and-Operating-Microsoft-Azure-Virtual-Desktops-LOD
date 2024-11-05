@@ -1,33 +1,13 @@
-# Learning Path 3 – Manage access and security for Azure Virtual Desktops Errata
+# AZ-140T00 Configuring and Operating Microsoft Azure Virtual Desktop Lab 3 Errata
 
-## Lab - Configure Conditional Access policies for WVD (AD DS)
+# Lab 3 - Implement monitoring by using Azure Virtual Desktop Insights
 
-## Microsoft does not allow the Autohorized Lab Hosting partner to provide Entra P2 in the lab environment without the student providing a Credit Card.
+### Exercise 1: Implement monitoring of an Azure Virtual Desktop environment
 
-### Exercise 1: Prepare for Azure AD-based Conditional Access for Azure Virtual Desktop
-Skip Task 1 <br>
+Task 1: Register the Azure subscription with the Microsoft.Insights resource provider <br>
 
-### Exercise 1: Prepare for Azure AD-based Conditional Access for Azure Virtual Desktop
-Replace Task 2 steps with the following: <br>
-<br>
-You will need to enalbe Security Defaults <br>
-Microsoft Entra ID > Properties > Manage Security Defaults > Enable <br>
-Click Save <br>
-Navigate back to the Microsoft entra ID Blade <br>
-Select Users under Manage <br>
-Select Per-user MFA - may have to click on ... <br>
-Select aduser5 and enable <br>
-Select enable multi-factor auth <br>
-Select close <br>
-Select aduser5 and Enforce <br>
-Select enforce multi-factor auth <br>
-Select close <br>
-Continue to Task 3 <br>
+Step 3: Continue to refresh screen until status shows registered <br>
 
-### Exercise 1: Prepare for Azure AD-based Conditional Access for Azure Virtual Desktop
+Task 3: Set up the Virtual Desktop Insights configuration workbook <br>
 
-Task 3: Register a user for Azure AD MFA<br>
-Step 3:  Select "I want to set up a different method".  In the choose method drop down box choose Phone, click Confirm <br>
-
-### Skip Exercise 2: Implement Azure AD-based Conditional Access for Azure Virtual Desktop
-
+Step 13: Select Session host data settings <br>

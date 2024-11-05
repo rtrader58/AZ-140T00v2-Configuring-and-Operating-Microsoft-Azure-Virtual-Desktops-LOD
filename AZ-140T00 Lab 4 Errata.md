@@ -1,7 +1,7 @@
-# Learning Path 4 – Manage user environments and apps for Azure Virtual Desktops Errata
+# AZ-140T00 Configuring and Operating Microsoft Azure Virtual Desktop Lab 4 Errata
 
-## Lab - Implement and manage Azure Virtual Desktop profiles (AD DS)
+# Lab 4 - Connect to session hosts (Entra ID)
 
-No Errata<br>
+### Exercise 1: Validate the functionality of Microsoft Entra joined Azure Virtual Desktop session hosts by connecting to them from a Windows 11 client
 
-### Lab - Package Azure Virtual Desktop applications (AD DS)
+No Errata <br>
