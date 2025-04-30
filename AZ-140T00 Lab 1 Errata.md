@@ -12,10 +12,10 @@ Step 13: Search for User1 that is in your resources dropdown <br>
 
 Step 16: Copy the name of the Group into Notepad <br>
 
-Step 17: Search for User1 that is in your resources dropdown <br>
+Step 17: Search for User2 that is in your resources dropdown <br>
 
 Step 20: Copy the name of the Group into Notepad <br>
 
 Task 2: Deploy an Azure Virtual Desktop host pool <br>
 
-Step 3: Student password, use the password for User-1 add additional characters to make it 12 characters in length (I added 123) <br>
+Step 3: Student password, use the password for User-1 add additional characters to make it 12 characters in length if needed (I added 123) <br>
