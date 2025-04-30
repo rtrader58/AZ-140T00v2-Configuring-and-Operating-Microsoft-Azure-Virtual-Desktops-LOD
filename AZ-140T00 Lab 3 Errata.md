@@ -10,4 +10,6 @@ Step 3: Continue to refresh screen until status shows registered <br>
 
 Task 3: Set up the Virtual Desktop Insights configuration workbook <br>
 
+Step 5:  Click Configure workspace
+
 Step 13: Select Session host data settings <br>
