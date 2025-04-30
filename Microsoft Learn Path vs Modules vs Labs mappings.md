@@ -34,9 +34,8 @@ Module 12 – Install and configure apps on a session host - https://learn.micro
 
 ### Modules
 
-Module 13 – Plan for disaster recovery - https://learn.microsoft.com/en-us/training/modules/plan-implement-business-continuity-disaster-recovery/ <br>
-Module 14 – Automate Virtual Desktop management tasks - https://learn.microsoft.com/en-us/training/modules/automate-azure-virtual-desktop-management-tasks/ <br>
-Module 15 – Monitor and manage performance and health - https://learn.microsoft.com/en-us/training/modules/monitor-manage-performance-health/ <br>
+Module 13 – Monitor and manage performance and health - https://learn.microsoft.com/en-us/training/modules/monitor-manage-performance-health/ <br>
+Module 14 – Plan and implement updates, backups, and disaster recovery - https://learn.microsoft.com/en-us/training/modules/plan-implement-business-continuity-disaster-recovery/ <br>
 
 ### Labs: Configuring and Operating Microsoft Azure Virtual Desktop
 
