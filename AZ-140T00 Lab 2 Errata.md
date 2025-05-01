@@ -5,5 +5,4 @@
 ### Exercise 1: Manage an Azure Virtual Desktop environment containing Microsoft Entra joined session hosts
 
 Task 3: Assign the required RBAC role to an Azure Virtual Desktop service principal <br>
-
 Step 2: Only paste PowerShell script under the word powershell <br>
