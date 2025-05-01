@@ -2,4 +2,6 @@
 
 # Lab 4 - Connect to session hosts (Entra ID) ~20 Minutes
 
-No Errata <br>
+Exercise 1: Validate the functionality of Microsoft Entra joined Azure Virtual Desktop session hosts by connecting to them from a Windows 11 client <br>
+Skip Task 1: Adjust RDP properties of the Azure Virtual Desktop host pool <br>
+
