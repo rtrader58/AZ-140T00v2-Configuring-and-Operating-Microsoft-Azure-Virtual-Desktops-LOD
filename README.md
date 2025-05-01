@@ -1,7 +1,7 @@
 # AZ-140T00 Configurring and Operating Microsoft Azure Virtual Desktop - v2
  
 ## This repository is provided to enhance the course<br>
-## Updated 11/05/2024<br>
+## Updated 5/01/2025<br>
 
 This repository is maintained by Rick Trader<br>
 Interface Technical Training<br>
