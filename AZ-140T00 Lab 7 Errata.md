@@ -12,8 +12,6 @@ Or  <br>
 
 If the time sync failed on the VM because the change was too large.  Manually changed the date/time to current date/time  <br>
 
-## Lab 7 – Create custom session host images by using image templates
-
 ### Exercise 1: Create custom session host images by using image templates
 
 Task 1: Create a user-assigned managed identity <br>
