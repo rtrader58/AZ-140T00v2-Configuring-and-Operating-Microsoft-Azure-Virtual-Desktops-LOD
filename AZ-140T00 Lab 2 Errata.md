@@ -1,6 +1,6 @@
 # AZ-140T00 Configuring and Operating Microsoft Azure Virtual Desktop Lab 2 Errata
 
-# Lab 2 - Manage host pools and session hosts by using the Azure portal (Entra ID)
+# Lab 2 - Manage host pools and session hosts by using the Azure portal (Entra ID) ~30 Minutes
 
 ### Exercise 1: Manage an Azure Virtual Desktop environment containing Microsoft Entra joined session hosts
 

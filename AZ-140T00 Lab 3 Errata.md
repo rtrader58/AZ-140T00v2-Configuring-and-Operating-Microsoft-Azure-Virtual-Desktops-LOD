@@ -1,6 +1,6 @@
 # AZ-140T00 Configuring and Operating Microsoft Azure Virtual Desktop Lab 3 Errata
 
-# Lab 3 - Implement monitoring by using Azure Virtual Desktop Insights
+# Lab 3 - Implement monitoring by using Azure Virtual Desktop Insights ~25 Minutes
 
 ### Exercise 1: Implement monitoring of an Azure Virtual Desktop environment
 

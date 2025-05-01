@@ -1,6 +1,6 @@
 # AZ-140T00 Configuring and Operating Microsoft Azure Virtual Desktop Labs 1 Errata
 
-# Lab 1 – Deploy host pools and session hosts by using the Azure portal (Entra ID) ~30 Minutes
+# Lab 1 – Deploy host pools and session hosts by using the Azure portal (Entra ID) ~60 Minutes
 
 ### Exercise 1: Implement an Azure Virtual Desktop environment using Microsoft Entra joined session hosts
 
