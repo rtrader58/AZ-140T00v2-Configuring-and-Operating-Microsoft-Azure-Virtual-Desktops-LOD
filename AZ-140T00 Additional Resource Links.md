@@ -5,7 +5,8 @@ Replay - https://replay.interfacett.com<br>
 Lab Environment – https://interfacett.learnondemand.net<br>
 OFFICIAL COLLECTION - Course AZ-140T00: Configuring and Operating Microsoft Azure Virtual Desktop - https://learn.microsoft.com/en-us/users/msftofficialcurriculum-4292/collections/7wrocj3k73g4dq <br>
 AZ-140 Exam objectives - https://learn.microsoft.com/en-us/certifications/exams/az-140<br>
-AZ-140 Exam Study guide -https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-140<br>
+AZ-140 Exam study guide - https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-140<br>
+AZ-140 Exam prep videos - https://learn.microsoft.com/en-us/shows/exam-readiness-zone/preparing-for-az-140-plan-and-implement-an-azure-virtual-desktop-infrastructure <br>
 Azure Platforms Blog - https://social.msdn.microsoft.com/Forums/enUS/home?category=windowsazureplatform <br>
 Channel 9 - https://channel9.msdn.com? <br>
 Azure Blog - https://azure.microsoft.com/en-us/blog <br>
