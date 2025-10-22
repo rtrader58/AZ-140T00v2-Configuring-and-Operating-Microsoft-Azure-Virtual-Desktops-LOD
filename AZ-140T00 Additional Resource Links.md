@@ -92,6 +92,7 @@ https://learn.microsoft.com/en-us/azure/virtual-desktop/private-link-setup?tabs=
 https://learn.microsoft.com/en-us/azure/virtual-desktop/insights?tabs=monitor <br>
 ## Module 10 – Implement and manage FSLogic
 https://learn.microsoft.com/en-us/fslogix/how-to-install-fslogix <br>
+https://learn.microsoft.com/en-us/fslogix/overview-prerequisites <br>
 ## Module 11 – Configure user experience settings
 No Links <br>
 ## Module 12 – Install and configure apps on a session host
