@@ -22,16 +22,16 @@ Step 7: Wait for step to complete before moving on to Task 3 <br>
 Task 3: Assign the required RBAC role to an Azure Virtual Desktop service principal <br>
 Step 2: Only paste PowerShell script under the word powershell <br>
 
+# AZ-140T00 Configuring and Operating Microsoft Azure Virtual Desktop Lab 3 Errata
 # Lab 3 - Implement monitoring by using Azure Virtual Desktop Insights ~25 Minutes
-
 ### Exercise 1: Implement monitoring of an Azure Virtual Desktop environment
-
 Task 1: Register the Azure subscription with the Microsoft.Insights resource provider <br>
 Step 3: Continue to refresh screen until status shows registered <br>
 
 Task 3: Set up the Virtual Desktop Insights configuration workbook <br>
 Step 5:  Click Configure workspace <br>
-Step 13: Select Session host data settings <br>
+Step 13: Select Session host data settings Note - you many need to scroll down and deploy association before you can select the DCR <br> 
+Steps 20 - 23 may not be required
 
 # Lab 4 - Connect to session hosts (Entra ID) ~20 Minutes
 
