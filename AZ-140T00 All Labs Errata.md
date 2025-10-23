@@ -1,7 +1,6 @@
 # AZ-140T00 Configuring and Operating Microsoft Azure Virtual Desktop All Labs Errata
 
 # Lab 1 – Deploy host pools and session hosts by using the Azure portal (Entra ID) ~60 Minutes
-
 ### Exercise 1: Implement an Azure Virtual Desktop environment using Microsoft Entra joined session hosts 
 
 Task 1: Prepare the Azure subscription for deployment of an Azure Virtual Desktop host pool <br>
@@ -14,12 +13,14 @@ Step 20: Copy the name of the Group into Notepad <br>
 Task 2: Deploy an Azure Virtual Desktop host pool <br>
 Step 3: Student password, use the password for User-1 add additional characters to make it 12 characters in length if needed (I added 123) <br>
 
+# AZ-140T00 Configuring and Operating Microsoft Azure Virtual Desktop Lab 2 Errata
 # Lab 2 - Manage host pools and session hosts by using the Azure portal (Entra ID) ~30 Minutes
-
 ### Exercise 1: Manage an Azure Virtual Desktop environment containing Microsoft Entra joined session hosts
+Task 2: Review and configure the host pool properties <br>
+Step 7: Wait for step to complete before moving on to Task 3 <br>
 
 Task 3: Assign the required RBAC role to an Azure Virtual Desktop service principal <br>
-Step 2: Only paste PowerShell script under the work powershell <br>
+Step 2: Only paste PowerShell script under the word powershell <br>
 
 # Lab 3 - Implement monitoring by using Azure Virtual Desktop Insights ~25 Minutes
 
