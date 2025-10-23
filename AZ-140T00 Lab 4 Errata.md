@@ -4,5 +4,5 @@
 
 Exercise 1: Validate the functionality of Microsoft Entra joined Azure Virtual Desktop session hosts by connecting to them from a Windows 11 client <br>
 
-Skip Task 1: Adjust RDP properties of the Azure Virtual Desktop host pool (Breaks the abilty to log into the AVD as User1 and User2 <br>
+Skip Task 1: Adjust RDP properties of the Azure Virtual Desktop host pool (Breaks the abilty to log into the AVD as User1 and User2) <br>
 
