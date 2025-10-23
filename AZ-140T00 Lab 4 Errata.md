@@ -22,7 +22,7 @@ Task 2B (Optional): Install Microsoft Windows App on a Windows 11 computer <br>
 Step 1: Launch the Microsoft Store <br>
 Step 2: Search for RDP > Select Windows App > Select Get After installation close the Microsoft Store > continue to task 3 <br>
 
-Task 3: Subscribe to a Azure Virtual Desktop workspace using Windows App <br>
+Task 3B (Optional): Subscribe to a Azure Virtual Desktop workspace using Windows App <br>
 Step 1: On the lab computer, switch to the Windows App, select sign in with the credentials of the User1 Entra ID user account which you can locate on the Resources tab in the right pane of the lab interface window <br>
 Step 8: On the Windows App, click Connect <br>
 Step 12: Back in the Windows App Click on the US in the upper right corner select sign-out <br>
