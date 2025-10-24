@@ -10,10 +10,10 @@ Step 1: From the lab computer, in the web browser displaying the Azure portal, s
 Step 2: On the az140-21e-RG page, in the vertical navigation menu, select Access control (IAM) <br>
 Step 3: Click Role Assignments <br>
 Step 4: Search for your AVd-DAG group identified in Lab 1 <br>
-Step 5: Click on the link under state <br>
+Step 5: Click on Eligible time-bound under state <br>
 Step 6: Select Active and Permanant, click Save <br>
 Step 7: Search for your AVd-RemoteApp group identified in Lab 1 <br>
-Step 8: Click on the link under state <br>
+Step 8: Click on Eligible time-bound under state <br>
 Step 9: Select Active and Permanant, click Save <br>
 
 ### Exercise 1: Validate the functionality of Microsoft Entra joined Azure Virtual Desktop session hosts by connecting to them from a Windows 11 client <br>
