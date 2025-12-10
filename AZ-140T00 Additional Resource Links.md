@@ -94,7 +94,7 @@ https://learn.microsoft.com/en-us/azure/virtual-desktop/insights?tabs=monitor <b
 https://learn.microsoft.com/en-us/fslogix/how-to-install-fslogix <br>
 https://learn.microsoft.com/en-us/fslogix/overview-prerequisites <br>
 ## Module 11 – Configure user experience settings
-No Links <br>
+https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/security/threat-protection/security-policy-settings/network-security-allow-pku2u-authentication-requests-to-this-computer-to-use-online-identities <br>
 ## Module 12 – Install and configure apps on a session host
 No Links <br>
 ## Module 13 – Monitor and manage performance and health
