@@ -4,7 +4,7 @@
 
 ### Exercise 1: Implement Azure Virtual Desktop autoscale scaling plans
 
-Task 1: Assign the required RBAC role to an Azure Virtual Desktop service principal <br>
-Step 3: Only paste PowerShell script under the work powershell <br>
+Task 4: Create a scaling plan <br>
+When setting the time ensure you use the appropriate time in the eastern time zone <br>
 
 
