@@ -2,8 +2,10 @@
 
 ## Additional Labs
 
-Additional labs located here - https://github.com/rtrader58/Microsoft-Master-AZ-140-Configuring-and-Operating-Microsoft-Azure-Virtual-Desktop <br>
-These labs will require the use of an Azure Trial Subscription <br>
+### Additional labs located here: These labs will require the use of an Azure Trial Subscription
+
+My repository - https://github.com/rtrader58/Microsoft-Master-AZ-140-Configuring-and-Operating-Microsoft-Azure-Virtual-Desktop <br>
+Microsoft repository - https://github.com/MicrosoftLearning/AZ-140-Configuring-and-Operating-Microsoft-Azure-Virtual-Desktop <br>
 
 ### Create a disposable Microsoft Account.  (A trial subscription can on be obtained once per Microsoft Account)
 
