@@ -108,8 +108,7 @@ https://learn.microsoft.com/en-us/azure/virtual-desktop/service-architecture-res
 https://learn.microsoft.com/en-us/azure/virtual-machines/availability-set-overview <br>
 https://learn.microsoft.com/en-us/azure/reliability/availability-zones-service-support <br>
 https://learn.microsoft.com/en-us/azure/storage/files/files-redundancy <br>
-Fault tolerance in Azure Virtual Desktop <br>
-https://learn.microsoft.com/en-us/azure/architecture/example-scenario/azure-virtual-desktop/azure-virtual-desktop-multi-region-bcdr#active-active-vs-active-passive <br>
+Fault tolerance in Azure Virtual Desktop - https://learn.microsoft.com/en-us/azure/architecture/example-scenario/azure-virtual-desktop/azure-virtual-desktop-multi-region-bcdr#active-active-vs-active-passive <br>
 https://learn.microsoft.com/en-us/azure/architecture/example-scenario/azure-virtual-desktop/azure-virtual-desktop-multi-region-bcdr <br>
 https://learn.microsoft.com/en-us/azure/architecture/example-scenario/azure-virtual-desktop/azure-virtual-desktop-multi-region-bcdr#architecture-diagrams
 https://learn.microsoft.com/en-us/azure/architecture/example-scenario/azure-virtual-desktop/azure-virtual-desktop-multi-region-bcdr#failover-and-failback <br>
