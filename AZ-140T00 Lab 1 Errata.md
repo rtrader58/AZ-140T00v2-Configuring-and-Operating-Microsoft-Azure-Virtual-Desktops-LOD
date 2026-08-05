@@ -10,6 +10,7 @@ Step 13: Search for User1 that is in your resources dropdown <br>
 Step 16: Copy the name of the Group into Notepad <br>
 Step 17: Search for User2 that is in your resources dropdown <br>
 Step 20: Copy the name of the Group into Notepad <br>
+### Before completing task 2 do the following: After the VNet creation has finished - navigate to the HP1-Subnet and clear the check box on Enable private subnet (no default outbound access)
 
 Task 2: Deploy an Azure Virtual Desktop host pool <br>
 Step 3: Student password, use the password for User-1 add additional characters to make it 12 characters in length if needed (I added 123) <br>
