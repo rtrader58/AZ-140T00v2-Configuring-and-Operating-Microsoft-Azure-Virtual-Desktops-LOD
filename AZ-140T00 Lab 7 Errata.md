@@ -5,7 +5,7 @@ Task 1: Register required resource providers <br>
 Step 2: In the CloudShell select No storage account needed > Your Subscription > Apply <br>
 
 Task 3: Create a custom Azure role-based access control (RBAC) role <br>
-Step 3: <a href="https://github.com/MicrosoftLearning/AZ-140-Configuring-and-Operating-Microsoft-Azure-Virtual-Desktop/issues/327" target="_blank"> Click here</a> > copy and paste the new script into notepad the > Replace the x's (xxxxxxxxx) in the 3rd line with the value that is in Task 4 Step 7 - it should look like the following (63982134) > copy and paste the entire script from notepad into the CloudShell <br>
+Step 3: Right click link and open in another window https://github.com/MicrosoftLearning/AZ-140-Configuring-and-Operating-Microsoft-Azure-Virtual-Desktop/issues/327 > copy and paste the new script into notepad the > Replace the x's (xxxxxxxxx) in the 3rd line with the value that is in Task 4 Step 7 - it should look like the following (63982134) > copy and paste the entire script from notepad into the CloudShell <br>
 
 Task 4: Set permissions on the host image provisioning-related resources <br>
 Step 8: Search for the account (name) you created in Task 2 Step 3 <br>
