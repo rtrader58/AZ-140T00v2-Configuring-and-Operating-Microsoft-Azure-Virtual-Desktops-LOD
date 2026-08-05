@@ -2,13 +2,13 @@
 ## Lab 7 - Create and manage session host images ~90 Minutes
 ### Exercise 1: Create custom session host images by using image templates
 Task 1: Register required resource providers <br>
-Step 2: In the cloudshell sellect No storage account needed > Your Subscription > Apply <br>
+Step 2: In the CloudShell select No storage account needed > Your Subscription > Apply <br>
 
 Task 3: Create a custom Azure role-based access control (RBAC) role <br>
-Step 3: Do not have to change anything - paste as is <br>
+Step 3: Click on the following link and copy and paste the new script into notepad the and replace the script https://github.com/MicrosoftLearning/AZ-140-Configuring-and-Operating-Microsoft-Azure-Virtual-Desktop/issues/327 > Replace the x's (xxxxxxxxx) in the 3rd line with the value that is in Task 4 Step 7 - it should look like the following (63982134) > copy and paste the entire script from notepad into the CloudShell <br>
 
 Task 4: Set permissions on the host image provisioning-related resources <br>
-Step 8: The random should be populated with your same number of the account in step 7 <br>
+Step 8: Search for the account (name) you created in Task 2 Step 3 <br>
 
 Task 6: Build a custom image <br>
 Step 5: You may have to click see all images > search for DC2s_v3 (note remove standard when searching)  <br>
