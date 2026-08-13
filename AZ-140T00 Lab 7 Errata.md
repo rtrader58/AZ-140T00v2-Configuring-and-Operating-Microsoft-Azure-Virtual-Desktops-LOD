@@ -17,5 +17,7 @@ Task 7: Build a custom image <br>
 Step 2: Build took over 45 minutes to finish - this is a good point to take a break - but be mindfull of the timer <br>
 
 Task 8: Deploy session hosts by using a custom image <br>
+### After Step 6 before step 7: Do the following: After the VNet creation has finished - navigate to the HP1-Subnet and clear the check box on Enable private subnet (no default outbound access)
+
 Step 12: You may have to click see all images > search for DC2s_v3 (note remove standard when searching)  <br>
 
