@@ -6,7 +6,7 @@
 
 ### Note the role assignments created in Lab 1 may have expired you will need to check the status
 ## Note: Do the following steps prior to Exercise 1 
-Step 1: From the lab computer, in the web browser displaying the Azure portal, search for and select Resource groups and, on the Resource groups page, select az140-21e-RG <br>
+Step 1: From the lab computer, if needed, in the web browser displaying the Azure portal, search for and select Resource groups and, on the Resource groups page, select az140-21e-RG <br>
 Step 2: On the az140-21e-RG page, in the vertical navigation menu, select Access control (IAM) <br>
 Step 3: Click Role Assignments <br>
 Step 4: Search for your AVd-DAG group identified in Lab 1 <br>
