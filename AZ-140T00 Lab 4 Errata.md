@@ -4,7 +4,7 @@
 
 ## Lab Setup
 
-### Note the role assignments created in Lab 1 have expired you will need to change the assignment
+### Note the role assignments created in Lab 1 may have expired you will need to check the status
 ## Note: Do the following steps prior to Exercise 1 
 Step 1: From the lab computer, in the web browser displaying the Azure portal, search for and select Resource groups and, on the Resource groups page, select az140-21e-RG <br>
 Step 2: On the az140-21e-RG page, in the vertical navigation menu, select Access control (IAM) <br>
