@@ -5,7 +5,7 @@
 ## Lab Setup
 
 ### Note the role assignments created in Lab 1 have expired you will need to change the assignment
-
+## Note: Do the following steps prior to Exercise 1 
 Step 1: From the lab computer, in the web browser displaying the Azure portal, search for and select Resource groups and, on the Resource groups page, select az140-21e-RG <br>
 Step 2: On the az140-21e-RG page, in the vertical navigation menu, select Access control (IAM) <br>
 Step 3: Click Role Assignments <br>
@@ -15,6 +15,7 @@ Step 6: Select Active and Permanant, click Save <br>
 Step 7: Search for your AVd-RemoteApp group identified in Lab 1 <br>
 Step 8: Click on Eligible time-bound under state <br>
 Step 9: Select Active and Permanant, click Save <br>
+Continue with exercise 1 in the lab instructions <br>
 
 ### Exercise 1: Validate the functionality of Microsoft Entra joined Azure Virtual Desktop session hosts by connecting to them from a Windows 11 client <br>
 
