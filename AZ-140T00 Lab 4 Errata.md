@@ -10,9 +10,11 @@ Step 1: From the lab computer, in the web browser displaying the Azure portal, s
 Step 2: On the az140-21e-RG page, in the vertical navigation menu, select Access control (IAM) <br>
 Step 3: Click Role Assignments <br>
 Step 4: Search for your AVd-DAG group identified in Lab 1 <br>
+### Note: Check the status - if Active Permanent skip to step 7 - if expired continue with step 5
 Step 5: Click on Eligible time-bound under state <br>
-Step 6: Select Active and Permanant, click Save <br>
+Step 6: Select Active and Permanent, click Save <br>
 Step 7: Search for your AVd-RemoteApp group identified in Lab 1 <br>
+### Note: Check the status - if Active Permanent - Return to the lab instructions - if expired continue with step 8
 Step 8: Click on Eligible time-bound under state <br>
 Step 9: Select Active and Permanant, click Save <br>
 Continue with exercise 1 in the lab instructions <br>
